@@ -1,0 +1,12 @@
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\bin\Debug\net6.0\TecNM.Practica1.Core.deps.json
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\bin\Debug\net6.0\TecNM.Practica1.Core.dll
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\bin\Debug\net6.0\TecNM.Practica1.Core.pdb
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.csproj.AssemblyReference.cache
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.AssemblyInfoInputs.cache
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.AssemblyInfo.cs
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.csproj.CoreCompileInputs.cache
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.dll
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\refint\TecNM.Practica1.Core.dll
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\TecNM.Practica1.Core.pdb
+Z:\TECNM.PRACTICA1\TecNM.Practica1.Core\obj\Debug\net6.0\ref\TecNM.Practica1.Core.dll
